@@ -1,7 +1,7 @@
-## Interface: 80300
+## Interface: 90001
 ## Version: 1.0
 ## Title: RepairBot
 ## Notes: Automatically repairs for the player.
-## Author: Oxlotus/Lightsky/Smallbuttons
+## Author: iamlightsky
 
 Init.lua
